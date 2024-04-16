@@ -1,0 +1,15 @@
+2023-12-27 14:44:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select todo0_.id as id1_0_, todo0_.priority as priority2_0_, todo0_.status as status3_0_, todo0_.todo as todo4_0_ from todolist todo0_ [42104-214]
+2023-12-27 14:44:17 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select todo0_.id as id1_0_, todo0_.priority as priority2_0_, todo0_.status as status3_0_, todo0_.todo as todo4_0_ from todolist todo0_ [42104-214]
+2023-12-27 15:01:54 jdbc[4]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select todo0_.id as id1_0_, todo0_.priority as priority2_0_, todo0_.status as status3_0_, todo0_.todo as todo4_0_ from todolist todo0_ [42104-214]
+2023-12-27 15:01:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select todo0_.id as id1_0_, todo0_.priority as priority2_0_, todo0_.status as status3_0_, todo0_.todo as todo4_0_ from todolist todo0_ [42104-214]
+2023-12-28 07:31:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "TODOLIST" not found (this database is empty); SQL statement:
+select todo0_.id as id1_0_, todo0_.priority as priority2_0_, todo0_.status as status3_0_, todo0_.todo as todo4_0_ from todolist todo0_ [42104-214]
